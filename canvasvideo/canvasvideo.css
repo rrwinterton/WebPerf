@@ -1,0 +1,10 @@
+canvas {
+    border: 3px solid #010022;
+}
+
+.container {
+    width: 300px;
+    height: 100px;
+    position: relative;
+    margin: 20px;
+}
